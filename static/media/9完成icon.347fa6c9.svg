@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="系统配置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1101.000000, -918.000000)">
+        <g id="Group-3-Copy-9" transform="translate(1041.000000, 584.000000)" fill="#60EDFE" fill-rule="nonzero">
+            <path d="M70,334 C64.4956,334 60,338.4956 60,344 C60,349.5044 64.4956,354 70,354 C75.5044,354 80,349.5044 80,344 C80,338.4956 75.5044,334 70,334 Z M75.3668,342.1192 L69.6332,347.8532 C69.312,348.1744 68.8532,348.1744 68.532,347.8532 C68.532,347.8532 68.4864,347.8072 68.4864,347.7612 L68.4404,347.7156 L65.5504,344.9176 C65.2292,344.5964 65.2292,344.1376 65.5504,343.8164 C65.8716,343.4956 66.3304,343.4956 66.6512,343.8164 L69.0368,346.202 L74.22,341.018 C74.5412,340.6972 75,340.6972 75.3212,341.018 C75.6424,341.2936 75.6424,341.798 75.3668,342.1192 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+camera:
+- counting:
+    online: false
+    params: []
+  heatMap:
+    online: false
+    params: []
+  hesitate:
+    online: false
+    params: []
+- counting:
+    online: true
+    params: []
+  heatMap:
+    online: false
+    params: []
+  hesitate:
+    online: false
+    params: []
+- counting:
+    online: false
+    params: []
+  heatMap:
+    online: false
+    params: []
+  hesitate:
+    online: false
+    params: []
